@@ -1,0 +1,9 @@
+Building FUNSCAMCOIN
+
+See doc/readme-qt.rst for instructions on building FUNSCAMCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FUNSCAMCOIN.
+
+See doc/build-*.txt for instructions on building funscamcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FUNSCAMCOIN.
